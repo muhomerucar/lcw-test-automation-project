@@ -1,0 +1,830 @@
+2021-10-15 17:07:04,574 INFO  [Log] login() PASSED 
+2021-10-15 17:07:44,631 ERROR [Log] searchProduct() FAILED because of null 
+2021-10-15 17:08:21,590 ERROR [Log] searchProduct() FAILED because of null 
+2021-10-15 17:14:45,415 INFO  [Log] login() PASSED 
+2021-10-15 17:14:45,421 ERROR [Log] searchProduct() FAILED because of null 
+2021-10-15 17:14:45,786 ERROR [Log] scrollToBottom() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":".lazy\-load\-button"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:57964}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e7a85a41f7e9faf2c807c6cc5f3029f3
+*** Element info: {Using=class name, value=lazy-load-button} 
+2021-10-15 17:14:45,830 ERROR [Log] selectProduct() FAILED because of bound must be positive 
+2021-10-15 17:14:45,855 ERROR [Log] addProductToCart() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:57964}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e7a85a41f7e9faf2c807c6cc5f3029f3
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 17:14:45,892 ERROR [Log] goToCart() FAILED because of The product quantity in the cart has not been increased! ==> expected: <true> but was: <false> 
+2021-10-15 17:14:45,895 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 17:21:46,517 INFO  [Log] login() PASSED 
+2021-10-15 17:21:46,521 ERROR [Log] searchProduct() FAILED because of null 
+2021-10-15 17:21:46,877 ERROR [Log] scrollToBottom() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":".lazy\-load\-button"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:56097}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ef9657e427229ba3d03a243be8456dde
+*** Element info: {Using=class name, value=lazy-load-button} 
+2021-10-15 17:21:46,902 ERROR [Log] selectProduct() FAILED because of bound must be positive 
+2021-10-15 17:21:46,929 ERROR [Log] addProductToCart() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:56097}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ef9657e427229ba3d03a243be8456dde
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 17:21:46,963 ERROR [Log] goToCart() FAILED because of The product quantity in the cart has not been increased! ==> expected: <true> but was: <false> 
+2021-10-15 17:21:46,966 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 17:24:39,474 INFO  [Log] login() PASSED 
+2021-10-15 17:24:39,480 ERROR [Log] searchProduct() FAILED because of null 
+2021-10-15 17:24:39,975 ERROR [Log] scrollToBottom() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":".lazy\-load\-button"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:52823}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 036f158314ed09f6198cc74883deed3b
+*** Element info: {Using=class name, value=lazy-load-button} 
+2021-10-15 17:24:40,023 ERROR [Log] selectProduct() FAILED because of bound must be positive 
+2021-10-15 17:24:40,067 ERROR [Log] addProductToCart() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:52823}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 036f158314ed09f6198cc74883deed3b
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 17:24:40,099 ERROR [Log] goToCart() FAILED because of The product quantity in the cart has not been increased! ==> expected: <true> but was: <false> 
+2021-10-15 17:24:40,101 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 17:26:09,390 INFO  [Log] login() PASSED 
+2021-10-15 17:26:09,770 ERROR [Log] searchProduct() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"[type='button'][value='ARA']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:56096}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6769dc5ca228211e4dbd7d3de5cde2e2
+*** Element info: {Using=css selector, value=[type='button'][value='ARA']} 
+2021-10-15 17:26:09,813 ERROR [Log] scrollToBottom() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":".lazy\-load\-button"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:56096}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6769dc5ca228211e4dbd7d3de5cde2e2
+*** Element info: {Using=class name, value=lazy-load-button} 
+2021-10-15 17:26:09,849 ERROR [Log] selectProduct() FAILED because of bound must be positive 
+2021-10-15 17:26:09,876 ERROR [Log] addProductToCart() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:56096}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6769dc5ca228211e4dbd7d3de5cde2e2
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 17:26:09,922 ERROR [Log] goToCart() FAILED because of The product quantity in the cart has not been increased! ==> expected: <true> but was: <false> 
+2021-10-15 17:26:09,926 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 17:28:56,434 INFO  [Log] login() PASSED 
+2021-10-15 17:28:56,815 ERROR [Log] searchProduct() FAILED because of invalid selector: Unable to locate an element with the xpath expression [@id="header__container"]/div/div/div/div[1]/div[2]/button because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '[@id="header__container"]/div/div/div/div[1]/div[2]/button' is not a valid XPath expression.
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:57215}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 96485c7d3cda80e8ca6ed99adfaf805e
+*** Element info: {Using=xpath, value=[@id="header__container"]/div/div/div/div[1]/div[2]/button} 
+2021-10-15 17:28:56,865 ERROR [Log] scrollToBottom() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":".lazy\-load\-button"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:57215}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 96485c7d3cda80e8ca6ed99adfaf805e
+*** Element info: {Using=class name, value=lazy-load-button} 
+2021-10-15 17:28:56,906 ERROR [Log] selectProduct() FAILED because of bound must be positive 
+2021-10-15 17:28:56,938 ERROR [Log] addProductToCart() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:57215}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 96485c7d3cda80e8ca6ed99adfaf805e
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 17:28:56,979 ERROR [Log] goToCart() FAILED because of The product quantity in the cart has not been increased! ==> expected: <true> but was: <false> 
+2021-10-15 17:28:56,983 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 17:34:21,311 INFO  [Log] login() PASSED 
+2021-10-15 17:34:21,703 ERROR [Log] searchProduct() FAILED because of no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="header__container"]/div/div/div/div[1]/div[2]/button"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:54017}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 26f0e93a0aca90bf55ae35e4ddd16a67
+*** Element info: {Using=xpath, value=//*[@id="header__container"]/div/div/div/div[1]/div[2]/button} 
+2021-10-15 17:34:21,745 ERROR [Log] scrollToBottom() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":".lazy\-load\-button"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:54017}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 26f0e93a0aca90bf55ae35e4ddd16a67
+*** Element info: {Using=class name, value=lazy-load-button} 
+2021-10-15 17:34:21,775 ERROR [Log] selectProduct() FAILED because of bound must be positive 
+2021-10-15 17:34:21,813 ERROR [Log] addProductToCart() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:54017}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 26f0e93a0aca90bf55ae35e4ddd16a67
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 17:34:21,842 ERROR [Log] goToCart() FAILED because of The product quantity in the cart has not been increased! ==> expected: <true> but was: <false> 
+2021-10-15 17:34:21,847 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 17:42:10,085 INFO  [Log] login() PASSED 
+2021-10-15 17:42:10,520 ERROR [Log] searchProduct() FAILED because of invalid selector: Unable to locate an element with the xpath expression //input[@type='button' and @value='ARA']" because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//input[@type='button' and @value='ARA']"' is not a valid XPath expression.
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:54095}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4e7972d714d73761dbdbe19526c24bde
+*** Element info: {Using=xpath, value=//input[@type='button' and @value='ARA']"} 
+2021-10-15 17:42:10,569 ERROR [Log] scrollToBottom() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":".lazy\-load\-button"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:54095}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4e7972d714d73761dbdbe19526c24bde
+*** Element info: {Using=class name, value=lazy-load-button} 
+2021-10-15 17:42:10,609 ERROR [Log] selectProduct() FAILED because of bound must be positive 
+2021-10-15 17:42:10,653 ERROR [Log] addProductToCart() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:54095}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4e7972d714d73761dbdbe19526c24bde
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 17:42:10,694 ERROR [Log] goToCart() FAILED because of The product quantity in the cart has not been increased! ==> expected: <true> but was: <false> 
+2021-10-15 17:42:10,697 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 17:43:08,368 INFO  [Log] login() PASSED 
+2021-10-15 17:43:08,812 ERROR [Log] searchProduct() FAILED because of no such element: Unable to locate element: {"method":"xpath","selector":"//input[@type='button' and @value='ARA']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:60699}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 795f87ac626bbff2188322d72ec77b05
+*** Element info: {Using=xpath, value=//input[@type='button' and @value='ARA']} 
+2021-10-15 17:43:08,854 ERROR [Log] scrollToBottom() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":".lazy\-load\-button"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:60699}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 795f87ac626bbff2188322d72ec77b05
+*** Element info: {Using=class name, value=lazy-load-button} 
+2021-10-15 17:43:08,885 ERROR [Log] selectProduct() FAILED because of bound must be positive 
+2021-10-15 17:43:08,923 ERROR [Log] addProductToCart() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:60699}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 795f87ac626bbff2188322d72ec77b05
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 17:43:08,955 ERROR [Log] goToCart() FAILED because of The product quantity in the cart has not been increased! ==> expected: <true> but was: <false> 
+2021-10-15 17:43:08,958 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 17:43:42,241 INFO  [Log] login() PASSED 
+2021-10-15 17:43:42,549 ERROR [Log] searchProduct() FAILED because of no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="header__container"]/div/div/div/div[1]/div[2]/button"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:52380}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a8e68adaba7a249efdb84fd836bf151d
+*** Element info: {Using=xpath, value=//*[@id="header__container"]/div/div/div/div[1]/div[2]/button} 
+2021-10-15 17:43:42,591 ERROR [Log] scrollToBottom() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":".lazy\-load\-button"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:52380}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a8e68adaba7a249efdb84fd836bf151d
+*** Element info: {Using=class name, value=lazy-load-button} 
+2021-10-15 17:43:42,627 ERROR [Log] selectProduct() FAILED because of bound must be positive 
+2021-10-15 17:43:42,674 ERROR [Log] addProductToCart() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:52380}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a8e68adaba7a249efdb84fd836bf151d
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 17:43:42,955 ERROR [Log] goToCart() FAILED because of The product quantity in the cart has not been increased! ==> expected: <true> but was: <false> 
+2021-10-15 17:43:42,958 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 17:46:59,932 INFO  [Log] login() PASSED 
+2021-10-15 17:47:00,357 ERROR [Log] searchProduct() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"[type='button]"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49167}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 923d9d74fcdb5683036d44f7af765f2f
+*** Element info: {Using=css selector, value=[type='button]} 
+2021-10-15 17:47:00,403 ERROR [Log] scrollToBottom() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":".lazy\-load\-button"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49167}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 923d9d74fcdb5683036d44f7af765f2f
+*** Element info: {Using=class name, value=lazy-load-button} 
+2021-10-15 17:47:00,430 ERROR [Log] selectProduct() FAILED because of bound must be positive 
+2021-10-15 17:47:00,469 ERROR [Log] addProductToCart() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49167}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 923d9d74fcdb5683036d44f7af765f2f
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 17:47:00,500 ERROR [Log] goToCart() FAILED because of The product quantity in the cart has not been increased! ==> expected: <true> but was: <false> 
+2021-10-15 17:47:00,503 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 17:47:26,490 INFO  [Log] login() PASSED 
+2021-10-15 17:47:30,218 ERROR [Log] searchProduct() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":".fixable\-area\ filter\-fixable\-bar\ fixed"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:52142}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6343b65330a0529c92e7f7bb80121818
+*** Element info: {Using=class name, value=fixable-area filter-fixable-bar fixed} 
+2021-10-15 17:47:31,346 ERROR [Log] scrollToBottom() FAILED because of element click intercepted: Element <a class="lazy-load-button" onclick="javascript:GetCatalogData('/tr-TR/TR/ajax/search/SearchPageData?xhrKeys=CountryCode,q,xhrKeys&amp;CountryCode=TR&amp;q=Pantolan&amp;PageIndex=2', 'Paging');; event.preventDefault();" href="https://www.lcwaikiki.com/tr-TR/TR/arama?q=Pantolan&amp;PageIndex=2">...</a> is not clickable at point (631, 68). Other element would receive the click: <div class="row">...</div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:52142}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6343b65330a0529c92e7f7bb80121818 
+2021-10-15 17:47:37,205 ERROR [Log] selectProduct() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:52142}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6343b65330a0529c92e7f7bb80121818
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 17:47:37,249 ERROR [Log] addProductToCart() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:52142}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6343b65330a0529c92e7f7bb80121818
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 17:47:37,272 ERROR [Log] goToCart() FAILED because of The product quantity in the cart has not been increased! ==> expected: <true> but was: <false> 
+2021-10-15 17:47:37,278 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 17:50:15,168 INFO  [Log] login() PASSED 
+2021-10-15 17:50:18,930 INFO  [Log] searchProduct() PASSED 
+2021-10-15 17:50:20,399 ERROR [Log] scrollToBottom() FAILED because of element click intercepted: Element <a class="lazy-load-button" onclick="javascript:GetCatalogData('/tr-TR/TR/ajax/search/SearchPageData?xhrKeys=CountryCode,q,xhrKeys&amp;CountryCode=TR&amp;q=Pantolan&amp;PageIndex=2', 'Paging');; event.preventDefault();" href="https://www.lcwaikiki.com/tr-TR/TR/arama?q=Pantolan&amp;PageIndex=2">...</a> is not clickable at point (631, 68). Other element would receive the click: <div class="row">...</div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:62662}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc15ea1a0162907ff184784f111bdfe5 
+2021-10-15 17:50:23,133 ERROR [Log] selectProduct() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:62662}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc15ea1a0162907ff184784f111bdfe5
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 17:50:23,161 ERROR [Log] addProductToCart() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:62662}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bc15ea1a0162907ff184784f111bdfe5
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 17:50:23,262 ERROR [Log] goToCart() FAILED because of The product quantity in the cart has not been increased! ==> expected: <true> but was: <false> 
+2021-10-15 17:50:23,264 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 18:32:21,852 INFO  [Log] login() PASSED 
+2021-10-15 18:32:26,211 INFO  [Log] searchProduct() PASSED 
+2021-10-15 18:32:27,919 ERROR [Log] scrollToBottom() FAILED because of element click intercepted: Element <a class="lazy-load-button" onclick="javascript:GetCatalogData('/tr-TR/TR/ajax/search/SearchPageData?xhrKeys=CountryCode,q,xhrKeys&amp;CountryCode=TR&amp;q=Pantolan&amp;PageIndex=2', 'Paging');; event.preventDefault();" href="https://www.lcwaikiki.com/tr-TR/TR/arama?q=Pantolan&amp;PageIndex=2">...</a> is not clickable at point (631, 68). Other element would receive the click: <div class="row">...</div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:56903}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9df6cfd0f5fc63659bb3a745a0643d8d 
+2021-10-15 18:32:31,299 ERROR [Log] selectProduct() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:56903}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9df6cfd0f5fc63659bb3a745a0643d8d
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 18:32:31,808 ERROR [Log] addProductToCart() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:56903}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9df6cfd0f5fc63659bb3a745a0643d8d
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 18:32:31,913 ERROR [Log] goToCart() FAILED because of The product quantity in the cart has not been increased! ==> expected: <true> but was: <false> 
+2021-10-15 18:32:31,914 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 18:36:42,490 INFO  [Log] login() PASSED 
+2021-10-15 18:36:45,789 INFO  [Log] searchProduct() PASSED 
+2021-10-15 18:36:47,731 ERROR [Log] scrollToBottom() FAILED because of element click intercepted: Element <a class="lazy-load-button" onclick="javascript:GetCatalogData('/tr-TR/TR/ajax/search/SearchPageData?xhrKeys=CountryCode,q,xhrKeys&amp;CountryCode=TR&amp;q=Pantolan&amp;PageIndex=2', 'Paging');; event.preventDefault();" href="https://www.lcwaikiki.com/tr-TR/TR/arama?q=Pantolan&amp;PageIndex=2">...</a> is not clickable at point (631, 68). Other element would receive the click: <div class="row">...</div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:54230}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: caf822b9b1042312a33cf70563b33d6e 
+2021-10-15 18:38:32,190 ERROR [Log] selectProduct() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:54230}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: caf822b9b1042312a33cf70563b33d6e
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 18:38:32,322 ERROR [Log] addProductToCart() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:54230}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: caf822b9b1042312a33cf70563b33d6e
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 18:38:32,524 ERROR [Log] goToCart() FAILED because of The product quantity in the cart has not been increased! ==> expected: <true> but was: <false> 
+2021-10-15 18:38:32,587 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 18:39:59,207 INFO  [Log] login() PASSED 
+2021-10-15 18:40:03,410 INFO  [Log] searchProduct() PASSED 
+2021-10-15 18:40:05,440 ERROR [Log] scrollToBottom() FAILED because of element click intercepted: Element <a class="lazy-load-button" onclick="javascript:GetCatalogData('/tr-TR/TR/ajax/search/SearchPageData?xhrKeys=CountryCode,q,xhrKeys&amp;CountryCode=TR&amp;q=Pantolan&amp;PageIndex=2', 'Paging');; event.preventDefault();" href="https://www.lcwaikiki.com/tr-TR/TR/arama?q=Pantolan&amp;PageIndex=2">...</a> is not clickable at point (631, 68). Other element would receive the click: <div class="row">...</div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53736}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b7bc463c366c44dea87982a408245eb9 
+2021-10-15 18:40:10,088 ERROR [Log] selectProduct() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53736}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b7bc463c366c44dea87982a408245eb9
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 18:40:10,110 ERROR [Log] addProductToCart() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53736}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b7bc463c366c44dea87982a408245eb9
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 18:40:10,126 INFO  [Log] goToCart() PASSED 
+2021-10-15 18:40:10,126 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 18:44:06,133 INFO  [Log] login() PASSED 
+2021-10-15 18:44:09,523 INFO  [Log] searchProduct() PASSED 
+2021-10-15 18:44:11,526 ERROR [Log] scrollToBottom() FAILED because of element click intercepted: Element <a class="lazy-load-button" onclick="javascript:GetCatalogData('/tr-TR/TR/ajax/search/SearchPageData?xhrKeys=CountryCode,q,xhrKeys&amp;CountryCode=TR&amp;q=Pantolan&amp;PageIndex=2', 'Paging');; event.preventDefault();" href="https://www.lcwaikiki.com/tr-TR/TR/arama?q=Pantolan&amp;PageIndex=2">...</a> is not clickable at point (631, 68). Other element would receive the click: <div class="row">...</div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49862}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 83a8f3ce6d1c4bfc581a16cc904325e6 
+2021-10-15 18:44:15,706 ERROR [Log] selectProduct() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49862}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 83a8f3ce6d1c4bfc581a16cc904325e6
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 18:44:15,811 ERROR [Log] addProductToCart() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49862}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 83a8f3ce6d1c4bfc581a16cc904325e6
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 18:44:15,826 INFO  [Log] goToCart() PASSED 
+2021-10-15 18:44:15,830 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 18:48:11,864 INFO  [Log] login() PASSED 
+2021-10-15 18:48:16,601 INFO  [Log] searchProduct() PASSED 
+2021-10-15 18:48:19,364 ERROR [Log] scrollToBottom() FAILED because of element click intercepted: Element <a class="lazy-load-button" onclick="javascript:GetCatalogData('/tr-TR/TR/ajax/search/SearchPageData?xhrKeys=CountryCode,q,xhrKeys&amp;CountryCode=TR&amp;q=Pantolan&amp;PageIndex=2', 'Paging');; event.preventDefault();" href="https://www.lcwaikiki.com/tr-TR/TR/arama?q=Pantolan&amp;PageIndex=2">...</a> is not clickable at point (631, 68). Other element would receive the click: <div class="row">...</div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:55914}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c5593d997216ae6e627f6accd1f27421 
+2021-10-15 18:48:22,722 ERROR [Log] selectProduct() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:55914}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c5593d997216ae6e627f6accd1f27421
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 18:48:23,843 ERROR [Log] addProductToCart() FAILED because of element not interactable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:55914}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c5593d997216ae6e627f6accd1f27421 
+2021-10-15 18:48:23,856 INFO  [Log] goToCart() PASSED 
+2021-10-15 18:48:23,860 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 18:48:59,804 ERROR [Log] scrollToBottom() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":".lazy\-load\-button"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:65267}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9309bcaf799e3e879095ecc8661a6b1a
+*** Element info: {Using=class name, value=lazy-load-button} 
+2021-10-15 18:51:43,474 INFO  [Log] login() PASSED 
+2021-10-15 18:51:46,666 INFO  [Log] searchProduct() PASSED 
+2021-10-15 18:53:31,985 ERROR [Log] scrollToBottom() FAILED because of element click intercepted: Element <a class="lazy-load-button" onclick="javascript:GetCatalogData('/tr-TR/TR/ajax/search/SearchPageData?xhrKeys=CountryCode,q,xhrKeys&amp;CountryCode=TR&amp;q=Pantolan&amp;PageIndex=2', 'Paging');; event.preventDefault();" href="https://www.lcwaikiki.com/tr-TR/TR/arama?q=Pantolan&amp;PageIndex=2">...</a> is not clickable at point (631, 68). Other element would receive the click: <div class="row">...</div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:60925}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ff761db56166172c0163eb90578eb204 
+2021-10-15 18:55:38,992 ERROR [Log] selectProduct() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:60925}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ff761db56166172c0163eb90578eb204
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 18:55:42,372 ERROR [Log] addProductToCart() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:60925}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ff761db56166172c0163eb90578eb204
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 18:55:42,478 INFO  [Log] goToCart() PASSED 
+2021-10-15 18:55:42,483 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 19:00:41,166 INFO  [Log] login() PASSED 
+2021-10-15 19:00:45,189 INFO  [Log] searchProduct() PASSED 
+2021-10-15 19:00:46,969 ERROR [Log] scrollToBottomAndSeeMoreProduct() FAILED because of element click intercepted: Element <a class="lazy-load-button" onclick="javascript:GetCatalogData('/tr-TR/TR/ajax/search/SearchPageData?xhrKeys=CountryCode,q,xhrKeys&amp;CountryCode=TR&amp;q=Pantolan&amp;PageIndex=2', 'Paging');; event.preventDefault();" href="https://www.lcwaikiki.com/tr-TR/TR/arama?q=Pantolan&amp;PageIndex=2">...</a> is not clickable at point (631, 68). Other element would receive the click: <div class="row">...</div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49885}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f2a65126809178581f924abb0039dc85 
+2021-10-15 19:00:51,556 ERROR [Log] selectProduct() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49885}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f2a65126809178581f924abb0039dc85
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 19:00:52,243 ERROR [Log] addProductToCart() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:49885}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f2a65126809178581f924abb0039dc85
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 19:00:52,259 INFO  [Log] goToCart() PASSED 
+2021-10-15 19:00:52,259 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 19:16:01,585 INFO  [Log] login() PASSED 
+2021-10-15 19:16:06,431 INFO  [Log] searchProduct() PASSED 
+2021-10-15 19:16:08,488 ERROR [Log] scrollToBottomAndSeeMoreProduct() FAILED because of element click intercepted: Element <a class="lazy-load-button" onclick="javascript:GetCatalogData('/tr-TR/TR/ajax/search/SearchPageData?xhrKeys=CountryCode,q,xhrKeys&amp;CountryCode=TR&amp;q=Pantolan&amp;PageIndex=2', 'Paging');; event.preventDefault();" href="https://www.lcwaikiki.com/tr-TR/TR/arama?q=Pantolan&amp;PageIndex=2">...</a> is not clickable at point (631, 68). Other element would receive the click: <div class="row">...</div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:65439}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6766d61adac21de4dd554dda5b3fff0c 
+2021-10-15 19:16:11,565 ERROR [Log] selectProduct() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:65439}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6766d61adac21de4dd554dda5b3fff0c
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 19:16:12,090 ERROR [Log] addProductToCart() FAILED because of element not interactable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:65439}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6766d61adac21de4dd554dda5b3fff0c 
+2021-10-15 19:16:12,102 INFO  [Log] goToCart() PASSED 
+2021-10-15 19:16:12,107 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 19:22:34,329 INFO  [Log] login() PASSED 
+2021-10-15 19:22:39,242 INFO  [Log] searchProduct() PASSED 
+2021-10-15 19:22:41,366 ERROR [Log] scrollToBottomAndSeeMoreProduct() FAILED because of element click intercepted: Element <a class="lazy-load-button" onclick="javascript:GetCatalogData('/tr-TR/TR/ajax/search/SearchPageData?xhrKeys=CountryCode,q,xhrKeys&amp;CountryCode=TR&amp;q=Pantolan&amp;PageIndex=2', 'Paging');; event.preventDefault();" href="https://www.lcwaikiki.com/tr-TR/TR/arama?q=Pantolan&amp;PageIndex=2">...</a> is not clickable at point (631, 68). Other element would receive the click: <div class="row">...</div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:56885}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 596872d046a695c37f3d2275411cbae3 
+2021-10-15 19:22:44,119 ERROR [Log] selectProduct() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:56885}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 596872d046a695c37f3d2275411cbae3
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 19:22:44,858 ERROR [Log] addProductToCart() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":".option\-size"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:56885}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 596872d046a695c37f3d2275411cbae3
+*** Element info: {Using=class name, value=option-size} 
+2021-10-15 19:22:44,860 INFO  [Log] goToCart() PASSED 
+2021-10-15 19:22:44,874 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 19:23:39,974 INFO  [Log] login() PASSED 
+2021-10-15 19:23:43,760 INFO  [Log] searchProduct() PASSED 
+2021-10-15 19:23:46,210 ERROR [Log] scrollToBottomAndSeeMoreProduct() FAILED because of element click intercepted: Element <a class="lazy-load-button" onclick="javascript:GetCatalogData('/tr-TR/TR/ajax/search/SearchPageData?xhrKeys=CountryCode,q,xhrKeys&amp;CountryCode=TR&amp;q=Pantolan&amp;PageIndex=2', 'Paging');; event.preventDefault();" href="https://www.lcwaikiki.com/tr-TR/TR/arama?q=Pantolan&amp;PageIndex=2">...</a> is not clickable at point (631, 68). Other element would receive the click: <div class="row">...</div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:50730}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2361fe2b81c09be34e79c36e24981445 
+2021-10-15 19:23:51,174 ERROR [Log] selectProduct() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:50730}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2361fe2b81c09be34e79c36e24981445
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 19:23:51,498 ERROR [Log] addProductToCart() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#pd\-add\-to\-cart"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:50730}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2361fe2b81c09be34e79c36e24981445
+*** Element info: {Using=id, value=pd-add-to-cart} 
+2021-10-15 19:23:51,506 INFO  [Log] goToCart() PASSED 
+2021-10-15 19:23:51,510 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 19:27:35,169 ERROR [Log] login() FAILED because of element click intercepted: Element <a href="javascript:;" class="button bc-blue login-button-link bold" id="loginLink" tabindex="12">...</a> is not clickable at point (631, 469). Other element would receive the click: <div style="width:32%">...</div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:59591}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2572fdcd25a74ebd6080c5330074d488 
+2021-10-15 19:27:35,248 ERROR [Log] searchProduct() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":"#search_input"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:59591}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2572fdcd25a74ebd6080c5330074d488
+*** Element info: {Using=id, value=search_input} 
+2021-10-15 19:27:35,332 ERROR [Log] scrollToBottomAndSeeMoreProduct() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":".lazy\-load\-button"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:59591}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2572fdcd25a74ebd6080c5330074d488
+*** Element info: {Using=class name, value=lazy-load-button} 
+2021-10-15 19:27:35,386 ERROR [Log] selectProduct() FAILED because of bound must be positive 
+2021-10-15 19:27:35,455 ERROR [Log] addProductToCart() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":".option\-size"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:59591}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2572fdcd25a74ebd6080c5330074d488
+*** Element info: {Using=class name, value=option-size} 
+2021-10-15 19:27:35,469 INFO  [Log] goToCart() PASSED 
+2021-10-15 19:27:35,475 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 19:28:42,958 INFO  [Log] login() PASSED 
+2021-10-15 19:28:47,981 INFO  [Log] searchProduct() PASSED 
+2021-10-15 19:28:49,924 ERROR [Log] scrollToBottomAndSeeMoreProduct() FAILED because of element click intercepted: Element <a class="lazy-load-button" onclick="javascript:GetCatalogData('/tr-TR/TR/ajax/search/SearchPageData?xhrKeys=CountryCode,q,xhrKeys&amp;CountryCode=TR&amp;q=Pantolan&amp;PageIndex=2', 'Paging');; event.preventDefault();" href="https://www.lcwaikiki.com/tr-TR/TR/arama?q=Pantolan&amp;PageIndex=2">...</a> is not clickable at point (631, 68). Other element would receive the click: <div class="row">...</div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51482}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0591304c30d6de2bc6f363575b3dc065 
+2021-10-15 19:28:52,547 INFO  [Log] selectProduct() PASSED 
+2021-10-15 19:28:53,334 ERROR [Log] addProductToCart() FAILED because of element not interactable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51482}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0591304c30d6de2bc6f363575b3dc065 
+2021-10-15 19:28:53,343 INFO  [Log] goToCart() PASSED 
+2021-10-15 19:28:53,348 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 19:33:23,688 INFO  [Log] login() PASSED 
+2021-10-15 19:33:27,068 INFO  [Log] searchProduct() PASSED 
+2021-10-15 19:33:28,689 ERROR [Log] scrollToBottomAndSeeMoreProduct() FAILED because of element click intercepted: Element <a class="lazy-load-button" onclick="javascript:GetCatalogData('/tr-TR/TR/ajax/search/SearchPageData?xhrKeys=CountryCode,q,xhrKeys&amp;CountryCode=TR&amp;q=Pantolan&amp;PageIndex=2', 'Paging');; event.preventDefault();" href="https://www.lcwaikiki.com/tr-TR/TR/arama?q=Pantolan&amp;PageIndex=2">...</a> is not clickable at point (631, 68). Other element would receive the click: <div class="row">...</div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:63559}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2c4f96226e6a292f87b4fc188f9c450e 
+2021-10-15 19:33:33,142 INFO  [Log] selectProduct() PASSED 
+2021-10-15 19:33:34,847 INFO  [Log] addProductToCart() PASSED 
+2021-10-15 19:33:34,852 INFO  [Log] goToCart() PASSED 
+2021-10-15 19:33:34,855 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 19:35:43,336 INFO  [Log] login() PASSED 
+2021-10-15 19:35:47,792 INFO  [Log] searchProduct() PASSED 
+2021-10-15 19:35:49,790 ERROR [Log] scrollToBottomAndSeeMoreProduct() FAILED because of element click intercepted: Element <a class="lazy-load-button" onclick="javascript:GetCatalogData('/tr-TR/TR/ajax/search/SearchPageData?xhrKeys=CountryCode,q,xhrKeys&amp;CountryCode=TR&amp;q=Pantolan&amp;PageIndex=2', 'Paging');; event.preventDefault();" href="https://www.lcwaikiki.com/tr-TR/TR/arama?q=Pantolan&amp;PageIndex=2">...</a> is not clickable at point (631, 68). Other element would receive the click: <div class="row">...</div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:60012}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f21c8fe7f2f2356cedaccbe97353464b 
+2021-10-15 19:35:52,318 INFO  [Log] selectProduct() PASSED 
+2021-10-15 19:35:55,250 INFO  [Log] addProductToCart() PASSED 
+2021-10-15 19:35:55,256 INFO  [Log] goToCart() PASSED 
+2021-10-15 19:35:55,261 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 19:43:38,606 INFO  [Log] login() PASSED 
+2021-10-15 19:43:41,943 INFO  [Log] searchProduct() PASSED 
+2021-10-15 19:43:44,204 ERROR [Log] scrollToBottomAndSeeMoreProduct() FAILED because of element click intercepted: Element <a class="lazy-load-button" onclick="javascript:GetCatalogData('/tr-TR/TR/ajax/search/SearchPageData?xhrKeys=CountryCode,q,xhrKeys&amp;CountryCode=TR&amp;q=Pantolan&amp;PageIndex=2', 'Paging');; event.preventDefault();" href="https://www.lcwaikiki.com/tr-TR/TR/arama?q=Pantolan&amp;PageIndex=2">...</a> is not clickable at point (631, 68). Other element would receive the click: <div class="row">...</div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64569}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: dbd440c051d6dcc92ac89f3399a3a149 
+2021-10-15 19:43:47,084 INFO  [Log] selectProduct() PASSED 
+2021-10-15 19:43:47,783 ERROR [Log] addProductToCart() FAILED because of element not interactable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:64569}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: dbd440c051d6dcc92ac89f3399a3a149 
+2021-10-15 19:43:47,791 INFO  [Log] goToCart() PASSED 
+2021-10-15 19:43:47,794 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 19:48:55,694 INFO  [Log] login() PASSED 
+2021-10-15 19:49:00,077 INFO  [Log] searchProduct() PASSED 
+2021-10-15 19:49:15,555 ERROR [Log] scrollToBottomAndSeeMoreProduct() FAILED because of Expected condition failed: waiting for element to no longer be visible: By.className: lazy-load-button (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:59657}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8bcc5479fab37afdf88d473d5bc87541 
+2021-10-15 19:49:17,925 INFO  [Log] selectProduct() PASSED 
+2021-10-15 19:49:20,419 INFO  [Log] addProductToCart() PASSED 
+2021-10-15 19:49:20,422 INFO  [Log] goToCart() PASSED 
+2021-10-15 19:49:20,423 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 19:56:18,406 INFO  [Log] login() PASSED 
+2021-10-15 19:56:22,809 INFO  [Log] searchProduct() PASSED 
+2021-10-15 19:56:24,280 ERROR [Log] scrollToBottomAndSeeMoreProduct() FAILED because of element click intercepted: Element <a class="lazy-load-button" onclick="javascript:GetCatalogData('/tr-TR/TR/ajax/search/SearchPageData?xhrKeys=CountryCode,q,xhrKeys&amp;CountryCode=TR&amp;q=Pantolan&amp;PageIndex=2', 'Paging');; event.preventDefault();" href="https://www.lcwaikiki.com/tr-TR/TR/arama?q=Pantolan&amp;PageIndex=2">...</a> is not clickable at point (631, 68). Other element would receive the click: <div class="row">...</div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:51178}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 62853b79b47ae138c61bc1d170161693 
+2021-10-15 19:56:28,139 INFO  [Log] selectProduct() PASSED 
+2021-10-15 19:56:30,524 INFO  [Log] addProductToCart() PASSED 
+2021-10-15 19:56:30,528 INFO  [Log] goToCart() PASSED 
+2021-10-15 19:56:30,530 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 20:00:31,630 INFO  [Log] login() PASSED 
+2021-10-15 20:00:35,100 INFO  [Log] searchProduct() PASSED 
+2021-10-15 20:00:37,157 ERROR [Log] scrollToBottomAndSeeMoreProduct() FAILED because of element click intercepted: Element <a class="lazy-load-button" onclick="javascript:GetCatalogData('/tr-TR/TR/ajax/search/SearchPageData?xhrKeys=CountryCode,q,xhrKeys&amp;CountryCode=TR&amp;q=Pantolan&amp;PageIndex=2', 'Paging');; event.preventDefault();" href="https://www.lcwaikiki.com/tr-TR/TR/arama?q=Pantolan&amp;PageIndex=2">...</a> is not clickable at point (631, 68). Other element would receive the click: <div class="row">...</div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:59940}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 13e0656f914f9c7a7d5782c7dafa79e1 
+2021-10-15 20:00:39,775 INFO  [Log] selectProduct() PASSED 
+2021-10-15 20:00:40,883 ERROR [Log] addProductToCart() FAILED because of element not interactable
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:59940}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 13e0656f914f9c7a7d5782c7dafa79e1 
+2021-10-15 20:00:40,892 INFO  [Log] goToCart() PASSED 
+2021-10-15 20:00:40,895 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 20:01:17,855 INFO  [Log] login() PASSED 
+2021-10-15 20:01:21,160 INFO  [Log] searchProduct() PASSED 
+2021-10-15 20:02:30,861 ERROR [Log] scrollToBottomAndSeeMoreProduct() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":".lazy\-load\-button"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:50819}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fde64cdb30f301fe525517637600a7be
+*** Element info: {Using=class name, value=lazy-load-button} 
+2021-10-15 20:04:58,845 INFO  [Log] login() PASSED 
+2021-10-15 20:05:03,558 INFO  [Log] searchProduct() PASSED 
+2021-10-15 20:05:05,517 ERROR [Log] scrollToBottomAndSeeMoreProduct() FAILED because of element click intercepted: Element <a class="lazy-load-button" onclick="javascript:GetCatalogData('/tr-TR/TR/ajax/search/SearchPageData?xhrKeys=CountryCode,q,xhrKeys&amp;CountryCode=TR&amp;q=Pantolan&amp;PageIndex=2', 'Paging');; event.preventDefault();" href="https://www.lcwaikiki.com/tr-TR/TR/arama?q=Pantolan&amp;PageIndex=2">...</a> is not clickable at point (631, 68). Other element would receive the click: <div class="row">...</div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:61991}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4361edd3fe4c7c77e38363d9f27c7f0b 
+2021-10-15 20:05:10,922 INFO  [Log] selectProduct() PASSED 
+2021-10-15 20:05:13,165 INFO  [Log] addProductToCart() PASSED 
+2021-10-15 20:05:13,169 INFO  [Log] goToCart() PASSED 
+2021-10-15 20:05:13,173 INFO  [Log] removeProductFromCart() PASSED 
+2021-10-15 20:06:57,251 ERROR [Log] scrollToBottomAndSeeMoreProduct() FAILED because of no such element: Unable to locate element: {"method":"css selector","selector":".lazy\-load\-button"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6005L3OQ', ip: '192.168.1.87', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:52147}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f0723a1f3434d526813d1df722e51d9b
+*** Element info: {Using=class name, value=lazy-load-button} 
