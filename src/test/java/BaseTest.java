@@ -16,7 +16,7 @@ public class BaseTest {
 
     @BeforeAll
     public void setUp(){
-        System.setProperty("webdriver.chrome.driver","C:\\Users\\Lenovo\\Desktop\\ChromeDriver\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", LoginConfig.CHROME_DRIVER);
         driver = new ChromeDriver();
         driver.get("https://www.lcwaikiki.com/tr-TR/TR");
         driver.manage().window().maximize();

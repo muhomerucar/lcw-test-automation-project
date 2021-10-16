@@ -4,7 +4,8 @@ import org.openqa.selenium.WebDriver;
 public class HomePage extends BasePage {
 
     SearchBox searchBox;
-    By cartCountLocator = By.id("spanCart");
+    private static final String MAIN_PAGE = "https://www.lcwaikiki.com/tr-TR/TR";
+    private static final String MY_CART = "https://www.lcwaikiki.com/tr-TR/TR/sepetim";
 
     public HomePage(WebDriver driver) {
         super(driver);
@@ -15,19 +16,14 @@ public class HomePage extends BasePage {
         return this.searchBox;
     }
 
-    public boolean isProductAddedToCart() {
-        if(getCartCount() > 0){
+    public void goToCart() {
+        driver.navigate().to(MY_CART);
+    }
+
+    public boolean isHomePage(String currentUrl){
+        if(MAIN_PAGE.equals(currentUrl)){
             return true;
         }
         return false;
     }
-
-    public void goToCart() {
-    }
-
-    public int getCartCount(){
-        String count = find(cartCountLocator).getText();
-        return Integer.parseInt(count);
-    }
-
 }

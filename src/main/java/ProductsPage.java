@@ -1,42 +1,39 @@
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-
+import org.openqa.selenium.*;
 import java.util.List;
 import java.util.Random;
+import java.util.concurrent.TimeUnit;
 
 public class ProductsPage extends BasePage{
 
-    JavascriptExecutor js = ((JavascriptExecutor)driver);
-
-    By filterOptionLocator = By.className("fixable-area filter-fixable-bar fixed");
     By productNameLocator = By.className("a_model_item");
-    By seeMoreProductLocator = By.className("lazy-load-button");
+    By seeMoreProductLocator = By.className("lazy-load-current");
+
+    JavascriptExecutor js = ((JavascriptExecutor)driver);
 
     public ProductsPage(WebDriver driver) {
         super(driver);
     }
 
-    public boolean isOnProductsPage() {
-        return isDisplayed(filterOptionLocator);
-    }
 
     public List<WebElement> getAllProducts(){
+        driver.manage().timeouts().pageLoadTimeout(15,TimeUnit.SECONDS);
         return findAll(productNameLocator);
     }
 
-    public void selectRandomProduct() {
-        Random random = new Random();
-        int randomProduct = random.nextInt(getAllProducts().size() - 1);
-        getAllProducts().get(randomProduct).click();
-    }
-
     public void scrollDown(){
-        js.executeScript("window.scrollTo(0,document.body.scrollHeight)");
+        js.executeScript("window.scrollBy(0,500)");
     }
 
     public void seeMoreProducts(){
         click(seeMoreProductLocator);
     }
+
+    public WebElement selectRandomProduct(){
+        driver.manage().timeouts().pageLoadTimeout(25, TimeUnit.SECONDS);
+        Random random = new Random();
+        int randomProduct = random.nextInt(getAllProducts().size() - 1);
+        return getAllProducts().get(randomProduct);
+    }
+
+
 }
